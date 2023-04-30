@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My Name is Jayant Yadav, and i am data science enthusiast with around 4 years of Experience in Data Analysis and reporting. Skilled in using 
+SQL and various data visualization tools (Tableau, Power BI) to analyze and interpret data.
+
 <!--
 **jayantjy9/jayantjy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
