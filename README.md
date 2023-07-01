@@ -25,7 +25,7 @@ Here are some of the repositories I've worked on:
 
 <br>
 
-🙏🙏Thank you for visiting my GitHub profile! I hope you find my repositories useful and interesting. 
+🙏🙏Thank you for visiting my GitHub profile.
 
 <!-- data science enthusiast with 4 years of Experience in Data Analysis and reporting. 📊 Proven ability to collect, analyze, and interpret data to drive business decisions. 💡 Expertise in a variety of data analysis tools and techniques, including SQL, Python, and data visualization tools (Tableau, Power BI). 🚀 Strong communication and presentation skills.-->
 
