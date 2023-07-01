@@ -16,13 +16,14 @@ Below, you'll find a list of my repositories, showcasing my work and contributio
 Here are some of the repositories I've worked on:
 
 
-| Project | tool | 
-| - | - |
-| [Indian Census](https://github.com/jayantjy9/SQL/tree/main/Project-%20SQL%20%5BIndian%20Census%5D) | SQL |
-| [Sales Data](https://github.com/jayantjy9/SQL/tree/main/Project-Sales%20data) | SQL |
-| [Zomato Data Analysis](https://github.com/jayantjy9/Python-Programming/tree/main/Zomatodataset) | Python |
-| [Stores Sales Analysis](https://github.com/jayantjy9/Excel/tree/main/Vrinda%20Store%20Data%20Analysis) | Excel |
+| Project | Tool | Description |
+| - | - | - |
+| [Indian Census](https://github.com/jayantjy9/SQL/tree/main/Project-%20SQL%20%5BIndian%20Census%5D) | SQL | Indian Census 2011 data is used in this project, extracted some meaninigful data with the help of SQL queries.
+| [Sales Data](https://github.com/jayantjy9/SQL/tree/main/Project-Sales%20data) | SQL | Used a sample sales data and performed sql queries on it to extract some meaningful information.
+| [Zomato Data Analysis](https://github.com/jayantjy9/Python-Programming/tree/main/Zomatodataset) | Python | The data consist of Zomato Sales in different cities with the previous data tried to analyse some important aspects related with their delieveries, sales, cities and cuisines that are highly in demand.
+| [Stores Sales Analysis](https://github.com/jayantjy9/Excel/tree/main/Vrinda%20Store%20Data%20Analysis) | Excel | The data consist of Annual sales for a store, went through the data performed data cleaning and prepared a report that highlights valuable insights derived from thorough data analysis, aiming to enhance the store's sales growth and drive strategic decision-making.
 
+<br>
 
 🙏🙏Thank you for visiting my GitHub profile! I hope you find my repositories useful and interesting. 
 
