@@ -23,6 +23,8 @@ Here are some of the repositories I've worked on:
 | [Zomato Data Analysis](https://github.com/jayantjy9/Python-Programming/tree/main/Zomatodataset) | Python | Zomato sales data from different cities was analyzed to identify important aspects of deliveries, sales, cities, and cuisines in high demand.
 | [Stores Sales Analysis](https://github.com/jayantjy9/Excel/tree/main/Vrinda%20Store%20Data%20Analysis) | Excel | Data analysis of annual sales data for a store to enhance sales growth and drive strategic decision-making.
 | [Income Expense Tracker](https://github.com/jayantjy9/Excel/tree/main/Income_Expense_Tracker) | Excel | This Excel file is a simple way to track your income and expenses. Simply update your daybook, and the file will record the data and generate an interactive dashboard for you to use.
+| [Cyclistic bike-share analysis](https://github.com/jayantjy9/R-Programming/tree/main/Cyclistic%20bike-share%20analysis) | R | Cyclistic bike-share analysis case study to understand how casual riders and annual members use Cyclistic bikes differently.
+| [Multi-class Dog Breed Classification](https://github.com/jayantjy9/Machine-Learning-Project) | Machine Learning | Identifying the breed of a Dog using it's image.
 | [KPMG Virtual Internship](https://github.com/jayantjy9/KPMG-Virtual-Internship) | Excel, Powerpoint, PowerBI | Data analysis of customer demographic, address, and transactions datasets to identify high-value customers.
 | [TATA Virtual Internship](https://github.com/jayantjy9/TATA-Virtual_Internship) | Powerpoint, PowerBI | Data consultant for an online retail store, provided valuable insights to CEO and CMO by framing business scenario, choosing visuals, creating visuals and communicating insights.
 
